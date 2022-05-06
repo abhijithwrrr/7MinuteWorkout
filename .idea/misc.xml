@@ -5,11 +5,16 @@
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.115" />
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/circular_progress_grey.xml" value="0.115" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.1145" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.1145" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.1145" />
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.115" />
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.115" />
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.115" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/item_circular_thin_color_accent_border.xml" value="0.16" />
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.115" />
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/layout/activity_exercise.xml" value="0.18" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/layout/activity_finish.xml" value="0.196875" />
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/layout/activity_main.xml" value="0.12407407407407407" />
         <entry key="..\:/Users/user/AndroidStudioProjects/7MinuteWorkout/app/src/main/res/layout/item_exercise_status.xml" value="0.33" />
       </map>
